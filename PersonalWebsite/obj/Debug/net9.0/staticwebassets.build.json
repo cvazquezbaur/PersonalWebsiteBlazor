@@ -1,0 +1,1763 @@
+{
+  "Version": 1,
+  "Hash": "cFJRx/nGpCOJUpeFVCQEpJn7e2b/HBvJp4VvnmB/z1k=",
+  "Source": "PersonalWebsite",
+  "BasePath": "_content/PersonalWebsite",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PersonalWebsite\\wwwroot",
+      "Source": "PersonalWebsite",
+      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "BasePath": "_content/PersonalWebsite",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\f16kans05l-fg6f3k7yrg.gz",
+      "SourceId": "PersonalWebsite",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/PersonalWebsite",
+      "RelativePath": "PersonalWebsite#[.{fingerprint=fg6f3k7yrg}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "x5actk2xdw",
+      "Integrity": "dSvmrpX5oPUcB8pQI1eHOwlNECT1hkFQ8MBjS4WxdCA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-0t0206j77s.gz",
+      "SourceId": "PersonalWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/PersonalWebsite",
+      "RelativePath": "app#[.{fingerprint=0t0206j77s}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "428yafzak6",
+      "Integrity": "tAze8E2OoMa2UOgsQRaJ8BUm7hATy99hT4EAffJTne8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\xhy77gdwtw-fg6f3k7yrg.gz",
+      "SourceId": "PersonalWebsite",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/PersonalWebsite",
+      "RelativePath": "PersonalWebsite#[.{fingerprint=fg6f3k7yrg}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PersonalWebsite.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "x5actk2xdw",
+      "Integrity": "dSvmrpX5oPUcB8pQI1eHOwlNECT1hkFQ8MBjS4WxdCA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PersonalWebsite.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PersonalWebsite.styles.css",
+      "SourceId": "PersonalWebsite",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/PersonalWebsite",
+      "RelativePath": "PersonalWebsite#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "fg6f3k7yrg",
+      "Integrity": "kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PersonalWebsite.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css",
+      "SourceId": "PersonalWebsite",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/PersonalWebsite",
+      "RelativePath": "PersonalWebsite#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "fg6f3k7yrg",
+      "Integrity": "kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
+      "SourceId": "PersonalWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "BasePath": "_content/PersonalWebsite",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0t0206j77s",
+      "Integrity": "lDhqZ3S7gJJyNKwcG6xA7LZkwmq/5XDfKqejxJuVOk8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\Carlos.jpg",
+      "SourceId": "PersonalWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "BasePath": "_content/PersonalWebsite",
+      "RelativePath": "Assets/Image/Carlos#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "02ejzk4h69",
+      "Integrity": "6CB89zYKXtcMY6uhGxAEB7iGGzqR67jtx9OhHUVPGJc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Image\\Carlos.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-16.png",
+      "SourceId": "PersonalWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "BasePath": "_content/PersonalWebsite",
+      "RelativePath": "Assets/Image/favicons/icons8-mountain-16#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "onos2klna9",
+      "Integrity": "LHJRZ+Ji3PC6xEjaCpZZL3LdZLehWT6lwDROx7P36kg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Image\\favicons\\icons8-mountain-16.png"
+    },
+    {
+      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-32.png",
+      "SourceId": "PersonalWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "BasePath": "_content/PersonalWebsite",
+      "RelativePath": "Assets/Image/favicons/icons8-mountain-ios-17-filled-32#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6b6ofe7xtx",
+      "Integrity": "8kxHpqWz7pwkmosYwYnwfbDoJmPVEkQ2WDvi2G7+jcw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-32.png"
+    },
+    {
+      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-96.png",
+      "SourceId": "PersonalWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "BasePath": "_content/PersonalWebsite",
+      "RelativePath": "Assets/Image/favicons/icons8-mountain-ios-17-filled-96#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h45lsbwm9i",
+      "Integrity": "MTVeQxhPoZ5n0OUqep/s7IPesIo6CQ4ZtuXKKAX7Oj8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-96.png"
+    },
+    {
+      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\Florence2019.jpg",
+      "SourceId": "PersonalWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "BasePath": "_content/PersonalWebsite",
+      "RelativePath": "Assets/Image/Florence2019#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7tlzzm1nau",
+      "Integrity": "1btSdnPGt0izr/JcWSfIztfG8oQVECHN7AZ3wG91490=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Image\\Florence2019.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\HighSchoolFamily.JPG",
+      "SourceId": "PersonalWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "BasePath": "_content/PersonalWebsite",
+      "RelativePath": "Assets/Image/HighSchoolFamily#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pz08mh5ipu",
+      "Integrity": "BUHb8rNInYg8C8Zd+/+3t5wT25WUyadcqlVBDU3PKyo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Image\\HighSchoolFamily.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\mountains-background.jpg",
+      "SourceId": "PersonalWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "BasePath": "_content/PersonalWebsite",
+      "RelativePath": "Assets/Image/mountains-background#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "brffsbewg9",
+      "Integrity": "eXoDQREH34G2s0HJpY+O8vuBFVqYnqLp+ZzwxFG0xwU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Image\\mountains-background.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.0t0206j77s.css",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-0t0206j77s.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000569476082"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tAze8E2OoMa2UOgsQRaJ8BUm7hATy99hT4EAffJTne8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 21:50:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lDhqZ3S7gJJyNKwcG6xA7LZkwmq/5XDfKqejxJuVOk8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0t0206j77s"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lDhqZ3S7gJJyNKwcG6xA7LZkwmq/5XDfKqejxJuVOk8="
+        }
+      ]
+    },
+    {
+      "Route": "app.0t0206j77s.css",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lDhqZ3S7gJJyNKwcG6xA7LZkwmq/5XDfKqejxJuVOk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 21:50:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0t0206j77s"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lDhqZ3S7gJJyNKwcG6xA7LZkwmq/5XDfKqejxJuVOk8="
+        }
+      ]
+    },
+    {
+      "Route": "app.0t0206j77s.css.gz",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-0t0206j77s.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tAze8E2OoMa2UOgsQRaJ8BUm7hATy99hT4EAffJTne8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 21:50:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0t0206j77s"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tAze8E2OoMa2UOgsQRaJ8BUm7hATy99hT4EAffJTne8="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-0t0206j77s.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000569476082"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tAze8E2OoMa2UOgsQRaJ8BUm7hATy99hT4EAffJTne8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 21:50:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lDhqZ3S7gJJyNKwcG6xA7LZkwmq/5XDfKqejxJuVOk8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lDhqZ3S7gJJyNKwcG6xA7LZkwmq/5XDfKqejxJuVOk8="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3412"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lDhqZ3S7gJJyNKwcG6xA7LZkwmq/5XDfKqejxJuVOk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 21:50:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lDhqZ3S7gJJyNKwcG6xA7LZkwmq/5XDfKqejxJuVOk8="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.gz",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-0t0206j77s.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tAze8E2OoMa2UOgsQRaJ8BUm7hATy99hT4EAffJTne8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 21:50:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tAze8E2OoMa2UOgsQRaJ8BUm7hATy99hT4EAffJTne8="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/Carlos.02ejzk4h69.jpg",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\Carlos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1662527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6CB89zYKXtcMY6uhGxAEB7iGGzqR67jtx9OhHUVPGJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 14:30:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "02ejzk4h69"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Image/Carlos.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6CB89zYKXtcMY6uhGxAEB7iGGzqR67jtx9OhHUVPGJc="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/Carlos.jpg",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\Carlos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1662527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6CB89zYKXtcMY6uhGxAEB7iGGzqR67jtx9OhHUVPGJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 14:30:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6CB89zYKXtcMY6uhGxAEB7iGGzqR67jtx9OhHUVPGJc="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/favicons/icons8-mountain-16.onos2klna9.png",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-16.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LHJRZ+Ji3PC6xEjaCpZZL3LdZLehWT6lwDROx7P36kg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:20:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "onos2klna9"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Image/favicons/icons8-mountain-16.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LHJRZ+Ji3PC6xEjaCpZZL3LdZLehWT6lwDROx7P36kg="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/favicons/icons8-mountain-16.png",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-16.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LHJRZ+Ji3PC6xEjaCpZZL3LdZLehWT6lwDROx7P36kg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:20:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LHJRZ+Ji3PC6xEjaCpZZL3LdZLehWT6lwDROx7P36kg="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/favicons/icons8-mountain-ios-17-filled-32.6b6ofe7xtx.png",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-32.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8kxHpqWz7pwkmosYwYnwfbDoJmPVEkQ2WDvi2G7+jcw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:24:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6b6ofe7xtx"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Image/favicons/icons8-mountain-ios-17-filled-32.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8kxHpqWz7pwkmosYwYnwfbDoJmPVEkQ2WDvi2G7+jcw="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/favicons/icons8-mountain-ios-17-filled-32.png",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-32.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "420"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8kxHpqWz7pwkmosYwYnwfbDoJmPVEkQ2WDvi2G7+jcw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:24:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8kxHpqWz7pwkmosYwYnwfbDoJmPVEkQ2WDvi2G7+jcw="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/favicons/icons8-mountain-ios-17-filled-96.h45lsbwm9i.png",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-96.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1173"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MTVeQxhPoZ5n0OUqep/s7IPesIo6CQ4ZtuXKKAX7Oj8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:24:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h45lsbwm9i"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Image/favicons/icons8-mountain-ios-17-filled-96.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MTVeQxhPoZ5n0OUqep/s7IPesIo6CQ4ZtuXKKAX7Oj8="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/favicons/icons8-mountain-ios-17-filled-96.png",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-96.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1173"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MTVeQxhPoZ5n0OUqep/s7IPesIo6CQ4ZtuXKKAX7Oj8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 20:24:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MTVeQxhPoZ5n0OUqep/s7IPesIo6CQ4ZtuXKKAX7Oj8="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/Florence2019.7tlzzm1nau.jpg",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\Florence2019.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2970505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1btSdnPGt0izr/JcWSfIztfG8oQVECHN7AZ3wG91490=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 18:13:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7tlzzm1nau"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Image/Florence2019.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1btSdnPGt0izr/JcWSfIztfG8oQVECHN7AZ3wG91490="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/Florence2019.jpg",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\Florence2019.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2970505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1btSdnPGt0izr/JcWSfIztfG8oQVECHN7AZ3wG91490=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 18:13:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1btSdnPGt0izr/JcWSfIztfG8oQVECHN7AZ3wG91490="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/HighSchoolFamily.JPG",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\HighSchoolFamily.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "221367"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BUHb8rNInYg8C8Zd+/+3t5wT25WUyadcqlVBDU3PKyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 18:01:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BUHb8rNInYg8C8Zd+/+3t5wT25WUyadcqlVBDU3PKyo="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/HighSchoolFamily.pz08mh5ipu.JPG",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\HighSchoolFamily.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "221367"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BUHb8rNInYg8C8Zd+/+3t5wT25WUyadcqlVBDU3PKyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 18:01:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pz08mh5ipu"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Image/HighSchoolFamily.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BUHb8rNInYg8C8Zd+/+3t5wT25WUyadcqlVBDU3PKyo="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/mountains-background.brffsbewg9.jpg",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\mountains-background.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15542"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eXoDQREH34G2s0HJpY+O8vuBFVqYnqLp+ZzwxFG0xwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 15:27:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "brffsbewg9"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Image/mountains-background.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eXoDQREH34G2s0HJpY+O8vuBFVqYnqLp+ZzwxFG0xwU="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/mountains-background.jpg",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\mountains-background.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15542"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eXoDQREH34G2s0HJpY+O8vuBFVqYnqLp+ZzwxFG0xwU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 15:27:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eXoDQREH34G2s0HJpY+O8vuBFVqYnqLp+ZzwxFG0xwU="
+        }
+      ]
+    },
+    {
+      "Route": "PersonalWebsite.bundle.scp.css",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\f16kans05l-fg6f3k7yrg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002949852507"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "338"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dSvmrpX5oPUcB8pQI1eHOwlNECT1hkFQ8MBjS4WxdCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4="
+        }
+      ]
+    },
+    {
+      "Route": "PersonalWebsite.bundle.scp.css",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4="
+        }
+      ]
+    },
+    {
+      "Route": "PersonalWebsite.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\f16kans05l-fg6f3k7yrg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "338"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dSvmrpX5oPUcB8pQI1eHOwlNECT1hkFQ8MBjS4WxdCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dSvmrpX5oPUcB8pQI1eHOwlNECT1hkFQ8MBjS4WxdCA="
+        }
+      ]
+    },
+    {
+      "Route": "PersonalWebsite.fg6f3k7yrg.bundle.scp.css",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\f16kans05l-fg6f3k7yrg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002949852507"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "338"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dSvmrpX5oPUcB8pQI1eHOwlNECT1hkFQ8MBjS4WxdCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fg6f3k7yrg"
+        },
+        {
+          "Name": "label",
+          "Value": "PersonalWebsite.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4="
+        }
+      ]
+    },
+    {
+      "Route": "PersonalWebsite.fg6f3k7yrg.bundle.scp.css",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fg6f3k7yrg"
+        },
+        {
+          "Name": "label",
+          "Value": "PersonalWebsite.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4="
+        }
+      ]
+    },
+    {
+      "Route": "PersonalWebsite.fg6f3k7yrg.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\f16kans05l-fg6f3k7yrg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "338"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dSvmrpX5oPUcB8pQI1eHOwlNECT1hkFQ8MBjS4WxdCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fg6f3k7yrg"
+        },
+        {
+          "Name": "label",
+          "Value": "PersonalWebsite.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dSvmrpX5oPUcB8pQI1eHOwlNECT1hkFQ8MBjS4WxdCA="
+        }
+      ]
+    },
+    {
+      "Route": "PersonalWebsite.fg6f3k7yrg.styles.css",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\xhy77gdwtw-fg6f3k7yrg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002949852507"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "338"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dSvmrpX5oPUcB8pQI1eHOwlNECT1hkFQ8MBjS4WxdCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fg6f3k7yrg"
+        },
+        {
+          "Name": "label",
+          "Value": "PersonalWebsite.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4="
+        }
+      ]
+    },
+    {
+      "Route": "PersonalWebsite.fg6f3k7yrg.styles.css",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PersonalWebsite.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fg6f3k7yrg"
+        },
+        {
+          "Name": "label",
+          "Value": "PersonalWebsite.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4="
+        }
+      ]
+    },
+    {
+      "Route": "PersonalWebsite.fg6f3k7yrg.styles.css.gz",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\xhy77gdwtw-fg6f3k7yrg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "338"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dSvmrpX5oPUcB8pQI1eHOwlNECT1hkFQ8MBjS4WxdCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fg6f3k7yrg"
+        },
+        {
+          "Name": "label",
+          "Value": "PersonalWebsite.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dSvmrpX5oPUcB8pQI1eHOwlNECT1hkFQ8MBjS4WxdCA="
+        }
+      ]
+    },
+    {
+      "Route": "PersonalWebsite.styles.css",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\xhy77gdwtw-fg6f3k7yrg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002949852507"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "338"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dSvmrpX5oPUcB8pQI1eHOwlNECT1hkFQ8MBjS4WxdCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4="
+        }
+      ]
+    },
+    {
+      "Route": "PersonalWebsite.styles.css",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PersonalWebsite.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4="
+        }
+      ]
+    },
+    {
+      "Route": "PersonalWebsite.styles.css.gz",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\xhy77gdwtw-fg6f3k7yrg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "338"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dSvmrpX5oPUcB8pQI1eHOwlNECT1hkFQ8MBjS4WxdCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dSvmrpX5oPUcB8pQI1eHOwlNECT1hkFQ8MBjS4WxdCA="
+        }
+      ]
+    }
+  ]
+}

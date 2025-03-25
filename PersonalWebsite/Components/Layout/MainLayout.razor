@@ -1,0 +1,26 @@
+﻿@inherits LayoutComponentBase
+@* @using PersonalWebsite.Components.Pages.FooterComponent *@
+
+<div class="page d-flex flex-column">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+    <div class=" p-5"></div>
+    <main class="content px-4" style="min-height: 90vh;">
+        <div class="p-4 rounded home-content-container">
+            <article class="content px-4">
+                @Body
+            </article>
+        </div>
+    </main>
+
+    <PersonalWebsite.Components.Pages.FooterBarPiece /> 
+</div>
+
+@* @Body
+<Footer/> *@
+<div id="blazor-error-ui" data-nosnippet>
+    An unhandled error has occurred.
+    <a href="." class="reload">Reload</a>
+    <span class="dismiss">🗙</span>
+</div> 

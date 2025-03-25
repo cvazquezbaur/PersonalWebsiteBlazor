@@ -1,0 +1,38 @@
+﻿@page "/contact"
+<PageTitle>Contact Me</PageTitle>
+
+<h1 class="text-center pt-3">Contact Me</h1>
+<div class="container-fluid border pt-3">
+    <form>
+        <div class="mb-3">
+            <label for="name" class="form-label">Name:</label>
+            <div class="row">
+                <div class="col">
+                    <input type="text" class="form-control" placeholder="First name" aria-label="First name">
+                </div>
+                <div class="col">
+                    <input type="text" class="form-control" placeholder="Last name" aria-label="Last name">
+                </div>
+            </div>
+            <div id="nameHelp" class="form-text">First and last name please</div>
+        </div>
+        <div class="mb-3">
+            <label for="contactPhone" class="form-label">Phone:</label>
+            <input type="text" class="form-control" id="phoneNumber" placeholder="(xxx) xxx-xxxx">
+        </div>
+        <div class="mb-3">
+            <label for="contactPhone" class="form-label">Email:</label>
+            <input type="email" class="form-control" id="email" placeholder="email@email.com">
+            <div id="phoneHelp" class="form-text">Please add area code</div>
+        </div>
+        <div class="mb-3">
+            <label for="emailMessage" class="form-label">Message:</label>
+            <textarea class="form-control" id="emailMessage" rows="4" placeholder="Your Message"></textarea>
+            <div id="emailMessageHelp" class="form-text">Please leave a detailed message about your inquiry</div>
+        </div>
+        <div class="pb-3"><button type="submit" class="btn btn-primary">Submit</button></div>
+    </form>
+</div>
+@code {
+
+}
