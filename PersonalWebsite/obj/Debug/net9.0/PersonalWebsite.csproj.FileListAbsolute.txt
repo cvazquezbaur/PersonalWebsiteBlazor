@@ -31,4 +31,5 @@ C:\Users\carlos.vazquezbaur\OneDrive - State of New Mexico\Desktop\PersonalWebsi
 C:\Users\carlos.vazquezbaur\OneDrive - State of New Mexico\Desktop\PersonalWebsite\PersonalWebsite\obj\Debug\net9.0\PersonalWebsite.pdb
 C:\Users\carlos.vazquezbaur\OneDrive - State of New Mexico\Desktop\PersonalWebsite\PersonalWebsite\obj\Debug\net9.0\PersonalWebsite.genruntimeconfig.cache
 C:\Users\carlos.vazquezbaur\OneDrive - State of New Mexico\Desktop\PersonalWebsite\PersonalWebsite\obj\Debug\net9.0\ref\PersonalWebsite.dll
-C:\Users\carlos.vazquezbaur\OneDrive - State of New Mexico\Desktop\PersonalWebsite\PersonalWebsite\obj\Debug\net9.0\compressed\pt14q1d4mr-0t0206j77s.gz
+C:\Users\carlos.vazquezbaur\OneDrive - State of New Mexico\Desktop\PersonalWebsite\PersonalWebsite\obj\Debug\net9.0\PersonalWebsite.sourcelink.json
+C:\Users\carlos.vazquezbaur\OneDrive - State of New Mexico\Desktop\PersonalWebsite\PersonalWebsite\obj\Debug\net9.0\compressed\pt14q1d4mr-y3ciy4easl.gz
