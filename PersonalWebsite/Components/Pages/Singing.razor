@@ -1,39 +1,128 @@
 ﻿@page "/singing"
+@inject IJSRuntime JSRuntime
+
 <PageTitle>Carlos Vazquez Baur - Singing</PageTitle>
 
 <div class="jumbotron">
     <h1 class="text-center display-3">A Classical Baritone with a Theatrical Twist</h1>
-    <div class="text-center"><a role="button" class="btn btn-primary" href="#gallery-section">Go to Gallery</a></div>
+    <div class="text-center"><a role="button" class="btn btn-primary" href="@ScrollToSection("gallery-section")">Go to
+            Gallery</a></div>
 </div>
 <div class="row pt-3">
     <h3 class="text-center">Basic Beginnings</h3>
     <p class="text-center">
-        Carlos's musical journey began as early as his first words. An innate passion for music pulsed within him, and he was eager to express it. Initially, his introduction to the world of music came from the CDs played during car rides, which exposed him to a mix of Latin rhythms and classic rock anthems from the 60s through the 80s. However, it was the enchanting melodies of musicals that truly ignited his passion. Although Disney soundtracks were his early favorites, his musical tastes soon evolved and diversified.
+        Carlos's musical journey began as early as his first words. An innate passion for music pulsed within him, and
+        he was eager to express it. Initially, his introduction to the world of music came from the CDs played during
+        car rides, which exposed him to a mix of Latin rhythms and classic rock anthems from the 60s through the 80s.
+        However, it was the enchanting melodies of musicals that truly ignited his passion. Although Disney soundtracks
+        were his early favorites, his musical tastes soon evolved and diversified.
     </p>
     <p>
-        At the tender age of four, Carlos's musical journey took a significant step forward when he became a member of the Cathedral choir. This experience not only allowed him to develop his vocal abilities but also introduced him to the rhythmic world of percussion, which he played during mass services. This marked the beginning of a lifelong relationship with music, one that would shape his identity and provide him with countless opportunities for expression, growth, and joy.
+        At the tender age of four, Carlos's musical journey took a significant step forward when he became a member of
+        the Cathedral choir. This experience not only allowed him to develop his vocal abilities but also introduced him
+        to the rhythmic world of percussion, which he played during mass services. This marked the beginning of a
+        lifelong relationship with music, one that would shape his identity and provide him with countless opportunities
+        for expression, growth, and joy.
     </p>
+    @* <h4 class="text-center">Choral</h4> *@
+    @* <div class="position-relative">
+        <div style="background-color: #282c34; padding: 200px 0;">
+            <div class="container">
+                <h2 class="text-white text-center mb-4">Choral and Classical Music</h2>
+                <p class="text-white text-center">Your section description goes here.</p>
+            </div>
+        </div>
+        <div class="position-absolute top-0 start-0" style="width: 80%; height: 100%;">
+            <img src="/Assets/Image/CarnegieHall2024.jpg" class="img-fluid h-100 object-fit-cover" alt="Section Image">
+        </div>
+    </div> *@
+    <div class="position-relative">
+    <img src="Assets/Image/CarnegieHall2024.jpg" class="img-fluid w-100 object-fit-cover" style="height: 35vh;" alt="Singing Header - Carnegie Hall">
+    <div class="position-absolute top-10 start-0 translate-middle text-center text-white">
+        <h2 class="mb-4 bg-dark">Your Section Header</h2>
+        <p>Your section description goes here.</p>
+    </div>
+</div>
     <div class="col-3">
         <img src="/Assets/Image/CarlosAndEnrique.JPG" class="img-fluid">
     </div>
     <div class="col-9">
         <p>
-            Carlos's musical journey began early, singing in front of hundreds of parishioners at the Cathedral from the tender age of 6. He didn't just sing; he accompanied the songs, playing instruments and immersing himself in the music. As he grew, so did his musical abilities and the complexity of the music he performed. He transitioned from simple melodies to singing harmonies with adult choruses, while also learning to play the drum kit.
+            Carlos's musical journey began with singing in front of hundreds of parishioners at the Cathedral from the
+            tender age of 6. He didn't just sing; he accompanied the songs, playing instruments and immersing himself in
+            the music. As he grew, so did his musical abilities and the complexity of the music he performed. He
+            transitioned from simple melodies to singing harmonies with adult choruses, while also learning to play the
+            drum kit.
         </p>
         <p>
-            At 12, a new and exciting chapter unfolded as he joined the Zimbabwean marimba band. This unique style of marimba demanded that he constantly train his ear, discern new parts, and even compose new mass settings with his fellow teenage band members. The band's talent and dedication led them to perform all over Santa Fe, including a prestigious engagement at the city's 400th anniversary mass, graced by the presence of the King and Queen of Spain.
+            At 12, a new and exciting chapter unfolded as he joined the Zimbabwean marimba band. This unique style of
+            marimba demanded that he constantly train his ear, discern new parts, and even compose new mass settings
+            with his fellow teenage band members. The band's talent and dedication led them to perform all over Santa
+            Fe, including a prestigious engagement at the city's 400th anniversary mass, graced by the presence of the
+            King and Queen of Spain.
         </p>
         <p>
-            Throughout his percussion journey, Carlos never abandoned his singing. He continued to develop his vocal abilities, often asked to sing solo, and his confidence as a singer blossomed. His experiences nurtured a well-rounded musician, comfortable both behind a drum kit and at the forefront, captivating audiences with his voice.
+            Throughout his percussion journey, Carlos never abandoned his singing. He continued to develop his vocal
+            abilities, often asked to sing solo, and his confidence as a singer blossomed. His experiences nurtured a
+            well-rounded musician, comfortable both behind a drum kit and at the forefront, captivating audiences with
+            his voice.
+        </p>
+        <p>
+            Right when he started university, Carlos joined the Gonzaga Concert Choirs and began voice lessons with
+            Darnelle Preston. He got a scholarship that covered the costs and helped with tuition, which was a bit of a
+            surprise. Even though he was studying STEM, music became the main thing for him in college. He sang all
+            kinds of choral music and got picked to be a soloist a bunch of times. These performances took him all over
+            the Northwest to events like NWACDA, NAFME, WMEA, and various concert tours. In his next-to-last year at
+            Gonzaga, Carlos joined the Chamber Chorus and the Gonzaga Choir Council, which meant more chances to perform
+            and help run things. He really improved his voice under Darnelle Preston and Dr. Timothy Westerhaus,
+            developing his own unique style. This all led up to singing Alec Roth’s A New Season for the opening of the
+            Myrtle Woldson Performing Arts Center, followed by a month-long tour of Italy. They performed A New Season
+            and another full hour of choral music. The tour included workshops with Alec Roth, working with the Luigi
+            Cherubini student orchestra and Gonzaga's ballet and theater groups, concerts with local school choirs in
+            Florence, Castaglione delle Stiviere, and Cremona, a show with Florence's gay men's chorus Choreos, a
+            workshop with opera singers in Florence, and a final concert at the historic Pergola Theater in Florence.
+        </p>
+        <p>
+            After university, Carlos has worked as a professional section leader and soloist with the Cathedral Basilica
+            Pontifical Chorus, the chamber chorus Vox Anima, and the Santa Fe Symphony Chorus. He's been a featured
+            soloist at the Lensic theater in Santa Fe, New Mexico, singing in Ariel Ramirez’ Misa Criolla and Leonard
+            Bernstein’s Chichester Psalms. He’s also done opera workshops for new composers, performed John Rutter’s
+            Gloria and Magnificat at Carnegie Hall, and sang at the Cathedral Basilica of St. Francis of Assisi for
+            former Governor Bill Richardson's funeral.
+        </p>
+    </div>
+
+    <h4 class="text-center">Theater</h4>
+    <div class="col-3">
+        <img src="/Assets/Image/Grease.png" class="img-fluid">
+    </div>
+    <div class="col-9">
+        <p>
+            Carlos's involvement with Pandemonium Productions at age seven marked a significant turning point in his
+            performing arts journey. Musical theater proved to be a transformative experience, fostering personal and
+            artistic growth and laying the groundwork for future opportunities. His time with Pandemonium Productions
+            was prolific, featuring in 25 productions, and he further expanded his experience with a show at St.
+            Michael's High School and a youth opera at the Santa Fe Opera. Throughout his theatrical career, Carlos took
+            on a variety of leading roles, including iconic characters such as Prince Eric in "The Little Mermaid," Bill
+            Sykes in "Oliver," Charlie in "Charlie and the Chocolate Factory," and Birdy in "Bye Bye Birdy." These
+            diverse roles showcased his versatility and talent as a young performer, solidifying his passion for the
+            stage and setting the stage for a promising future in the performing arts.
         </p>
     </div>
 </div>
-<div id="gallery-section">
-    <h3 class="text-center">Gallery</h3>
-    <p class="text-center lead">Here are a few snippets of Carlos performing, videos and photos:</p>
+<div>
+    <section id="gallery-section">
+        <h3 class="text-center">Gallery</h3>
+        <p class="text-center lead">Here are a few snippets of Carlos performing, videos and photos:</p>
+    </section> 
 </div>
-    
+
 
 @code {
+    private async Task ScrollToSection(string sectionId)
+    {
+        await JSRuntime.InvokeVoidAsync("scrollToSection", sectionId);
+    }
+
 
 }

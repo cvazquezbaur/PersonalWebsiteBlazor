@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oOrt9ANnLsjFC6TNA7x7v2O1nVjDxfFZ3eTRT/+maJA=",
+  "Hash": "8ojmyk271jjp2rQQl1rYzGbAYhyCfkg57WTIkhm7Gt8=",
   "Source": "PersonalWebsite",
   "BasePath": "_content/PersonalWebsite",
   "Mode": "Default",
@@ -164,6 +164,48 @@
       "OriginalItemSpec": "wwwroot\\Assets\\Image\\Carlos.jpg"
     },
     {
+      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\CarlosAndEnrique.JPG",
+      "SourceId": "PersonalWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "BasePath": "_content/PersonalWebsite",
+      "RelativePath": "Assets/Image/CarlosAndEnrique#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "skp7zugzb8",
+      "Integrity": "xIdr7K8rqQPEk66UaJejmgUSIQpjdAtoS1eb7pZzvXA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Image\\CarlosAndEnrique.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\CarnegieHall2024.jpg",
+      "SourceId": "PersonalWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "BasePath": "_content/PersonalWebsite",
+      "RelativePath": "Assets/Image/CarnegieHall2024#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rj9ymz7bpn",
+      "Integrity": "KSnU3Z2HHu6QhTus4aCZPkF+Eu3vFFDRt1DRHuLeOXo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Image\\CarnegieHall2024.jpg"
+    },
+    {
       "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-16.png",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
@@ -246,6 +288,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Assets\\Image\\Florence2019.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\Grease.png",
+      "SourceId": "PersonalWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "BasePath": "_content/PersonalWebsite",
+      "RelativePath": "Assets/Image/Grease#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9ghbo6hptv",
+      "Integrity": "GW0sTHr2D2EuntmZUfAQLC7dWRH33XYtq3GDvmK3Igw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\Image\\Grease.png"
     },
     {
       "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\HighSchoolFamily.JPG",
@@ -672,6 +735,170 @@
       ]
     },
     {
+      "Route": "Assets/Image/CarlosAndEnrique.JPG",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\CarlosAndEnrique.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xIdr7K8rqQPEk66UaJejmgUSIQpjdAtoS1eb7pZzvXA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 22:40:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xIdr7K8rqQPEk66UaJejmgUSIQpjdAtoS1eb7pZzvXA="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/CarlosAndEnrique.skp7zugzb8.JPG",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\CarlosAndEnrique.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xIdr7K8rqQPEk66UaJejmgUSIQpjdAtoS1eb7pZzvXA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 22:40:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "skp7zugzb8"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Image/CarlosAndEnrique.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xIdr7K8rqQPEk66UaJejmgUSIQpjdAtoS1eb7pZzvXA="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/CarnegieHall2024.jpg",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\CarnegieHall2024.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "424201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KSnU3Z2HHu6QhTus4aCZPkF+Eu3vFFDRt1DRHuLeOXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 15:02:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KSnU3Z2HHu6QhTus4aCZPkF+Eu3vFFDRt1DRHuLeOXo="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/CarnegieHall2024.rj9ymz7bpn.jpg",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\CarnegieHall2024.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "424201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KSnU3Z2HHu6QhTus4aCZPkF+Eu3vFFDRt1DRHuLeOXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 15:02:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rj9ymz7bpn"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Image/CarnegieHall2024.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KSnU3Z2HHu6QhTus4aCZPkF+Eu3vFFDRt1DRHuLeOXo="
+        }
+      ]
+    },
+    {
       "Route": "Assets/Image/favicons/icons8-mountain-16.onos2klna9.png",
       "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-16.png",
       "Selectors": [],
@@ -996,6 +1223,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-1btSdnPGt0izr/JcWSfIztfG8oQVECHN7AZ3wG91490="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/Grease.9ghbo6hptv.png",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\Grease.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "867618"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GW0sTHr2D2EuntmZUfAQLC7dWRH33XYtq3GDvmK3Igw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 14:18:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9ghbo6hptv"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Image/Grease.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GW0sTHr2D2EuntmZUfAQLC7dWRH33XYtq3GDvmK3Igw="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/Grease.png",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\Grease.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "867618"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GW0sTHr2D2EuntmZUfAQLC7dWRH33XYtq3GDvmK3Igw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 14:18:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GW0sTHr2D2EuntmZUfAQLC7dWRH33XYtq3GDvmK3Igw="
         }
       ]
     },

@@ -85,6 +85,170 @@
       ]
     },
     {
+      "Route": "Assets/Image/CarlosAndEnrique.JPG",
+      "AssetFile": "Assets/Image/CarlosAndEnrique.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xIdr7K8rqQPEk66UaJejmgUSIQpjdAtoS1eb7pZzvXA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 22:40:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xIdr7K8rqQPEk66UaJejmgUSIQpjdAtoS1eb7pZzvXA="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/CarlosAndEnrique.skp7zugzb8.JPG",
+      "AssetFile": "Assets/Image/CarlosAndEnrique.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xIdr7K8rqQPEk66UaJejmgUSIQpjdAtoS1eb7pZzvXA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 22:40:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "skp7zugzb8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xIdr7K8rqQPEk66UaJejmgUSIQpjdAtoS1eb7pZzvXA="
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Image/CarlosAndEnrique.JPG"
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/CarnegieHall2024.jpg",
+      "AssetFile": "Assets/Image/CarnegieHall2024.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "424201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KSnU3Z2HHu6QhTus4aCZPkF+Eu3vFFDRt1DRHuLeOXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 15:02:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KSnU3Z2HHu6QhTus4aCZPkF+Eu3vFFDRt1DRHuLeOXo="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/CarnegieHall2024.rj9ymz7bpn.jpg",
+      "AssetFile": "Assets/Image/CarnegieHall2024.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "424201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KSnU3Z2HHu6QhTus4aCZPkF+Eu3vFFDRt1DRHuLeOXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 15:02:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rj9ymz7bpn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KSnU3Z2HHu6QhTus4aCZPkF+Eu3vFFDRt1DRHuLeOXo="
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Image/CarnegieHall2024.jpg"
+        }
+      ]
+    },
+    {
       "Route": "Assets/Image/Florence2019.7tlzzm1nau.jpg",
       "AssetFile": "Assets/Image/Florence2019.jpg",
       "Selectors": [],
@@ -163,6 +327,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-1btSdnPGt0izr/JcWSfIztfG8oQVECHN7AZ3wG91490="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/Grease.9ghbo6hptv.png",
+      "AssetFile": "Assets/Image/Grease.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "867618"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GW0sTHr2D2EuntmZUfAQLC7dWRH33XYtq3GDvmK3Igw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 14:18:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9ghbo6hptv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GW0sTHr2D2EuntmZUfAQLC7dWRH33XYtq3GDvmK3Igw="
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/Image/Grease.png"
+        }
+      ]
+    },
+    {
+      "Route": "Assets/Image/Grease.png",
+      "AssetFile": "Assets/Image/Grease.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "867618"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GW0sTHr2D2EuntmZUfAQLC7dWRH33XYtq3GDvmK3Igw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 14:18:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GW0sTHr2D2EuntmZUfAQLC7dWRH33XYtq3GDvmK3Igw="
         }
       ]
     },
