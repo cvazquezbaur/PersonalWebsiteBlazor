@@ -1,0 +1,37 @@
+﻿@page "/"
+@inject NavigationManager NavigationManager
+@implements IDisposable // If using a timer
+
+<PageTitle>Entrance</PageTitle>
+<div class="cover-container" @onclick="NavigateToHome"> 
+    <h1 class="display-1">Carlos Andres Vázquez Baur</h1>
+    <p class="lead">Check me out!</p>
+    <a role="button" class="btn btn-primary" href="/home">Click to enter</a>
+</div>
+
+@code {
+    // Optional: Timer-based navigation
+    private Timer? _timer;
+
+    protected override void OnInitialized()
+    {
+    // Example: Navigate after 3 seconds
+    // _timer = new Timer(NavigateToHome, null, TimeSpan.FromSeconds(3), Timeout.InfiniteTimeSpan);
+    }
+
+    private void NavigateToHome(object? state = null) // Parameter needed for Timer callback
+    {
+        NavigationManager.NavigateTo("/home");
+    }
+
+    // Optional: Button-based navigation (if not using whole div click or timer)
+    // private void NavigateToHome()
+    // {
+    //     NavigationManager.NavigateTo("/home");
+    // }
+
+    public void Dispose() // If using a timer
+    {
+    _timer?.Dispose();
+    }
+}

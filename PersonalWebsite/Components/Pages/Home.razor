@@ -1,9 +1,16 @@
-﻿@page "/"
+﻿@page "/home"
 @inject NavigationManager NavigationManager
+@inject IJSRuntime JSRuntime
 
 <PageTitle>Carlos Andres Vázquez Baur</PageTitle>
 
-  <div class="container">
+  <div class="cover-page" id="cover">
+    <h1 class="cover-title text- fade-in">Welcome to My Website</h1>
+    <p class="cover-subtitle fade-in">Explore my services and passions on this website</p>
+    <button class="enter-button fade-in" @onclick="ShowContent">Enter</button>
+</div>
+  <div id="content-container" style="display: none;">
+    <div class="container">
     <div class="jumbotron text-center">
       <h1 class="display-3">A Triple Threat in Unexpected Ways</h1>
       <p class="text-center pt-3 lead">Born and raised in Santa Fe, New Mexico and molded in the Pacific Northwest, I'm a
@@ -54,7 +61,39 @@
       <div class="text-center"><a class="btn btn-primary" href="/contact">Contact Me!</a></div>
     </div>
   </div>
+  </div>
 
 @code {
+  private async Task ShowContent()
+    {
+        await JSRuntime.InvokeVoidAsync("showContent");
+    }
+  
+  protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await JSRuntime.InvokeVoidAsync("eval", @"
+                function handleScroll() {
+                    const fadeIns = document.querySelectorAll('.fade-in');
+                    fadeIns.forEach(element => {
+                        const elementTop = element.getBoundingClientRect().top;
+                        const windowHeight = window.innerHeight;
+                        if (elementTop < windowHeight * 0.75) {
+                            element.classList.add('visible');
+                        }
+                    });
+                }
+                window.addEventListener('scroll', handleScroll);
+                handleScroll(); // Initial check on load
 
+                window.showContent = async () => {
+                    await new Promise(resolve => setTimeout(resolve, 10)); // Small delay
+                    document.getElementById('cover').style.display = 'none';
+                    document.getElementById('content-container').style.display = 'flex';
+                    handleScroll(); // Trigger initial fade-in on content reveal
+                };
+            ");
+        }
+    }
 }

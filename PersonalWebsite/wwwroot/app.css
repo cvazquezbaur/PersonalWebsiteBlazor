@@ -54,6 +54,83 @@ h1:focus {
     border-color: aliceblue !important;
 }
 
+.btn-primary:hover {
+    background-color: #FFEE8C;
+}
+
+.cover-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Or background image */
+    color: white;
+    cursor: pointer; /* If clickable */
+    text-align: center;
+}
+
+.cover-page {
+    flex: 1; /* Cover page takes up remaining space */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.cover-title {
+    font-size: 3em;
+    margin-bottom: 20px;
+    color:hsl(from color h s l);
+}
+
+.cover-subtitle {
+    font-size: 1.5em;
+    margin-bottom: 40px;
+}
+
+.enter-button {
+    padding: 15px 30px;
+    background-color: #4D94A3;
+    color: #282c34;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.enter-button:hover {
+    background-color: #63B6C5; /* Slightly lighter on hover */
+}
+
+.fade-in {
+    opacity: 1;
+    transition: opacity 1s ease-in-out;
+}
+
+.fade-in.visible {
+    opacity: 0;
+}
+
+.nav-link {
+    color: #f5f5f5 !important;
+}
+
+.nav-link:hover {
+    color: rgb(34, 34, 34) !important;
+}
+
+.section {
+    padding: 50px 0;
+}
+
+#content-container {
+  display: none; /* Hide content initially */
+  flex-direction: column;
+  flex: 1;
+}
+
 body {
     background-color: #282c34 !important; /*AtomOne*/
     /* background-color: rgb(34, 34, 34) !important; Charcoal grey */

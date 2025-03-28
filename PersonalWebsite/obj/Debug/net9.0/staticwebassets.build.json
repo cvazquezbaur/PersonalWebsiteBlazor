@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8ojmyk271jjp2rQQl1rYzGbAYhyCfkg57WTIkhm7Gt8=",
+  "Hash": "dit7qIv+DqUwrK7F/XCqwrEje7XY32zCba8I0d79pfc=",
   "Source": "PersonalWebsite",
   "BasePath": "_content/PersonalWebsite",
   "Mode": "Default",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-y3ciy4easl.gz",
+      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-ju963zylqb.gz",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PersonalWebsite",
-      "RelativePath": "app#[.{fingerprint=y3ciy4easl}]?.css.gz",
+      "RelativePath": "app#[.{fingerprint=ju963zylqb}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,8 +52,8 @@
       "RelatedAsset": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "aj8a46rnso",
-      "Integrity": "thVIimRt1NljhXqOGBKjZ94zH/HMCJn6hiiEvSQdTpw=",
+      "Fingerprint": "tpnoyq7sz4",
+      "Integrity": "EQgZyOY86r1iB8itYDlPOVFxNJCwKsIQBgspq7M1QsA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "y3ciy4easl",
-      "Integrity": "zl9Q1I2PTcJQBs3Z9cQX8K6Md2BR+s8Kk1wsoDxJ7Zc=",
+      "Fingerprint": "ju963zylqb",
+      "Integrity": "WybXGpCIYyVJP9J5lwspP1OmPvkaqMAcT3Bji/Kwb7w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
@@ -356,12 +356,12 @@
   "Endpoints": [
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-y3ciy4easl.gz",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-ju963zylqb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000560538117"
+          "Quality": "0.000452284034"
         }
       ],
       "ResponseHeaders": [
@@ -371,15 +371,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1783"
+          "Value": "2210"
         },
         {
           "Name": "ETag",
-          "Value": "\"thVIimRt1NljhXqOGBKjZ94zH/HMCJn6hiiEvSQdTpw=\""
+          "Value": "\"EQgZyOY86r1iB8itYDlPOVFxNJCwKsIQBgspq7M1QsA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 22:04:47 GMT"
+          "Value": "Thu, 27 Mar 2025 22:40:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -399,13 +399,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zl9Q1I2PTcJQBs3Z9cQX8K6Md2BR+s8Kk1wsoDxJ7Zc=\""
+          "Value": "W/\"WybXGpCIYyVJP9J5lwspP1OmPvkaqMAcT3Bji/Kwb7w=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zl9Q1I2PTcJQBs3Z9cQX8K6Md2BR+s8Kk1wsoDxJ7Zc="
+          "Value": "sha256-WybXGpCIYyVJP9J5lwspP1OmPvkaqMAcT3Bji/Kwb7w="
         }
       ]
     },
@@ -420,7 +420,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3517"
+          "Value": "4960"
         },
         {
           "Name": "Content-Type",
@@ -428,11 +428,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zl9Q1I2PTcJQBs3Z9cQX8K6Md2BR+s8Kk1wsoDxJ7Zc=\""
+          "Value": "\"WybXGpCIYyVJP9J5lwspP1OmPvkaqMAcT3Bji/Kwb7w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 22:04:47 GMT"
+          "Value": "Thu, 27 Mar 2025 22:40:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -442,13 +442,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zl9Q1I2PTcJQBs3Z9cQX8K6Md2BR+s8Kk1wsoDxJ7Zc="
+          "Value": "sha256-WybXGpCIYyVJP9J5lwspP1OmPvkaqMAcT3Bji/Kwb7w="
         }
       ]
     },
     {
       "Route": "app.css.gz",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-y3ciy4easl.gz",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-ju963zylqb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -457,7 +457,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1783"
+          "Value": "2210"
         },
         {
           "Name": "Content-Type",
@@ -465,11 +465,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"thVIimRt1NljhXqOGBKjZ94zH/HMCJn6hiiEvSQdTpw=\""
+          "Value": "\"EQgZyOY86r1iB8itYDlPOVFxNJCwKsIQBgspq7M1QsA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 22:04:47 GMT"
+          "Value": "Thu, 27 Mar 2025 22:40:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -487,18 +487,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-thVIimRt1NljhXqOGBKjZ94zH/HMCJn6hiiEvSQdTpw="
+          "Value": "sha256-EQgZyOY86r1iB8itYDlPOVFxNJCwKsIQBgspq7M1QsA="
         }
       ]
     },
     {
-      "Route": "app.y3ciy4easl.css",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-y3ciy4easl.gz",
+      "Route": "app.ju963zylqb.css",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-ju963zylqb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000560538117"
+          "Quality": "0.000452284034"
         }
       ],
       "ResponseHeaders": [
@@ -508,15 +508,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1783"
+          "Value": "2210"
         },
         {
           "Name": "ETag",
-          "Value": "\"thVIimRt1NljhXqOGBKjZ94zH/HMCJn6hiiEvSQdTpw=\""
+          "Value": "\"EQgZyOY86r1iB8itYDlPOVFxNJCwKsIQBgspq7M1QsA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 22:04:47 GMT"
+          "Value": "Thu, 27 Mar 2025 22:40:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -536,13 +536,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zl9Q1I2PTcJQBs3Z9cQX8K6Md2BR+s8Kk1wsoDxJ7Zc=\""
+          "Value": "W/\"WybXGpCIYyVJP9J5lwspP1OmPvkaqMAcT3Bji/Kwb7w=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "y3ciy4easl"
+          "Value": "ju963zylqb"
         },
         {
           "Name": "label",
@@ -550,12 +550,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zl9Q1I2PTcJQBs3Z9cQX8K6Md2BR+s8Kk1wsoDxJ7Zc="
+          "Value": "sha256-WybXGpCIYyVJP9J5lwspP1OmPvkaqMAcT3Bji/Kwb7w="
         }
       ]
     },
     {
-      "Route": "app.y3ciy4easl.css",
+      "Route": "app.ju963zylqb.css",
       "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -565,7 +565,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3517"
+          "Value": "4960"
         },
         {
           "Name": "Content-Type",
@@ -573,11 +573,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zl9Q1I2PTcJQBs3Z9cQX8K6Md2BR+s8Kk1wsoDxJ7Zc=\""
+          "Value": "\"WybXGpCIYyVJP9J5lwspP1OmPvkaqMAcT3Bji/Kwb7w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 22:04:47 GMT"
+          "Value": "Thu, 27 Mar 2025 22:40:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -587,7 +587,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "y3ciy4easl"
+          "Value": "ju963zylqb"
         },
         {
           "Name": "label",
@@ -595,13 +595,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zl9Q1I2PTcJQBs3Z9cQX8K6Md2BR+s8Kk1wsoDxJ7Zc="
+          "Value": "sha256-WybXGpCIYyVJP9J5lwspP1OmPvkaqMAcT3Bji/Kwb7w="
         }
       ]
     },
     {
-      "Route": "app.y3ciy4easl.css.gz",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-y3ciy4easl.gz",
+      "Route": "app.ju963zylqb.css.gz",
+      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-ju963zylqb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -610,7 +610,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1783"
+          "Value": "2210"
         },
         {
           "Name": "Content-Type",
@@ -618,11 +618,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"thVIimRt1NljhXqOGBKjZ94zH/HMCJn6hiiEvSQdTpw=\""
+          "Value": "\"EQgZyOY86r1iB8itYDlPOVFxNJCwKsIQBgspq7M1QsA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 22:04:47 GMT"
+          "Value": "Thu, 27 Mar 2025 22:40:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -640,7 +640,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "y3ciy4easl"
+          "Value": "ju963zylqb"
         },
         {
           "Name": "label",
@@ -648,7 +648,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-thVIimRt1NljhXqOGBKjZ94zH/HMCJn6hiiEvSQdTpw="
+          "Value": "sha256-EQgZyOY86r1iB8itYDlPOVFxNJCwKsIQBgspq7M1QsA="
         }
       ]
     },
