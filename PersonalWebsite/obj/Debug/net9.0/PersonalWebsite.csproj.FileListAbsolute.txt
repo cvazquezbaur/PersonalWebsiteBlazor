@@ -33,3 +33,38 @@ C:\Users\carlos.vazquezbaur\OneDrive - State of New Mexico\Desktop\PersonalWebsi
 C:\Users\carlos.vazquezbaur\OneDrive - State of New Mexico\Desktop\PersonalWebsite\PersonalWebsite\obj\Debug\net9.0\ref\PersonalWebsite.dll
 C:\Users\carlos.vazquezbaur\OneDrive - State of New Mexico\Desktop\PersonalWebsite\PersonalWebsite\obj\Debug\net9.0\PersonalWebsite.sourcelink.json
 C:\Users\carlos.vazquezbaur\OneDrive - State of New Mexico\Desktop\PersonalWebsite\PersonalWebsite\obj\Debug\net9.0\compressed\pt14q1d4mr-ju963zylqb.gz
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\bin\Debug\net9.0\appsettings.Development.json
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\bin\Debug\net9.0\appsettings.json
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\bin\Debug\net9.0\PersonalWebsite.staticwebassets.runtime.json
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\bin\Debug\net9.0\PersonalWebsite.staticwebassets.endpoints.json
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\bin\Debug\net9.0\PersonalWebsite.exe
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\bin\Debug\net9.0\PersonalWebsite.deps.json
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\bin\Debug\net9.0\PersonalWebsite.runtimeconfig.json
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\bin\Debug\net9.0\PersonalWebsite.dll
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\bin\Debug\net9.0\PersonalWebsite.pdb
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\PersonalWebsite.GeneratedMSBuildEditorConfig.editorconfig
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\PersonalWebsite.AssemblyInfoInputs.cache
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\PersonalWebsite.AssemblyInfo.cs
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\PersonalWebsite.csproj.CoreCompileInputs.cache
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\PersonalWebsite.MvcApplicationPartsAssemblyInfo.cache
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\PersonalWebsite.sourcelink.json
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\scopedcss\bundle\PersonalWebsite.styles.css
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\scopedcss\projectbundle\PersonalWebsite.bundle.scp.css
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\compressed\pt14q1d4mr-zg537wdlu1.gz
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\compressed\xhy77gdwtw-fg6f3k7yrg.gz
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\compressed\f16kans05l-fg6f3k7yrg.gz
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\staticwebassets.build.json
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\staticwebassets.development.json
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\staticwebassets\msbuild.PersonalWebsite.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\staticwebassets\msbuild.PersonalWebsite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\staticwebassets\msbuild.build.PersonalWebsite.props
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PersonalWebsite.props
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PersonalWebsite.props
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\staticwebassets.pack.json
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\PersonalWebsite.dll
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\refint\PersonalWebsite.dll
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\PersonalWebsite.pdb
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\PersonalWebsite.genruntimeconfig.cache
+D:\BlazorWebsite\PersonalWebsiteBlazor\PersonalWebsite\obj\Debug\net9.0\ref\PersonalWebsite.dll

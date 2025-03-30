@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dit7qIv+DqUwrK7F/XCqwrEje7XY32zCba8I0d79pfc=",
+  "Hash": "WdKsHJEaF9qkfHjeDiQpOhT6R3ZK6UAjQ107T16RCFo=",
   "Source": "PersonalWebsite",
   "BasePath": "_content/PersonalWebsite",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PersonalWebsite\\wwwroot",
       "Source": "PersonalWebsite",
-      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\f16kans05l-fg6f3k7yrg.gz",
+      "Identity": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\f16kans05l-fg6f3k7yrg.gz",
       "SourceId": "PersonalWebsite",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PersonalWebsite",
       "RelativePath": "PersonalWebsite#[.{fingerprint=fg6f3k7yrg}]!.bundle.scp.css.gz",
       "AssetKind": "All",
@@ -28,41 +28,41 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css",
+      "RelatedAsset": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "x5actk2xdw",
       "Integrity": "dSvmrpX5oPUcB8pQI1eHOwlNECT1hkFQ8MBjS4WxdCA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css"
+      "OriginalItemSpec": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-ju963zylqb.gz",
+      "Identity": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-zg537wdlu1.gz",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PersonalWebsite",
-      "RelativePath": "app#[.{fingerprint=ju963zylqb}]?.css.gz",
+      "RelativePath": "app#[.{fingerprint=zg537wdlu1}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
+      "RelatedAsset": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "tpnoyq7sz4",
-      "Integrity": "EQgZyOY86r1iB8itYDlPOVFxNJCwKsIQBgspq7M1QsA=",
+      "Fingerprint": "9xevsypfyt",
+      "Integrity": "s+691obSlIWYJg8kOcLEMJZsks5rCRmqIkqKjT1Eo10=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css"
+      "OriginalItemSpec": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\xhy77gdwtw-fg6f3k7yrg.gz",
+      "Identity": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\xhy77gdwtw-fg6f3k7yrg.gz",
       "SourceId": "PersonalWebsite",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/PersonalWebsite",
       "RelativePath": "PersonalWebsite#[.{fingerprint=fg6f3k7yrg}]?.styles.css.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PersonalWebsite.styles.css",
+      "RelatedAsset": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PersonalWebsite.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "x5actk2xdw",
       "Integrity": "dSvmrpX5oPUcB8pQI1eHOwlNECT1hkFQ8MBjS4WxdCA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PersonalWebsite.styles.css"
+      "OriginalItemSpec": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PersonalWebsite.styles.css"
     },
     {
-      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PersonalWebsite.styles.css",
+      "Identity": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PersonalWebsite.styles.css",
       "SourceId": "PersonalWebsite",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PersonalWebsite",
       "RelativePath": "PersonalWebsite#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -98,13 +98,13 @@
       "Integrity": "kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PersonalWebsite.styles.css"
+      "OriginalItemSpec": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PersonalWebsite.styles.css"
     },
     {
-      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css",
+      "Identity": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css",
       "SourceId": "PersonalWebsite",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PersonalWebsite",
       "RelativePath": "PersonalWebsite#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -119,13 +119,13 @@
       "Integrity": "kY7at0Eai7bmySTfR/epE2QEVk9Jl8T/5T9j1YiLAJ4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css"
+      "OriginalItemSpec": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
+      "Identity": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\app.css",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -136,17 +136,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ju963zylqb",
-      "Integrity": "WybXGpCIYyVJP9J5lwspP1OmPvkaqMAcT3Bji/Kwb7w=",
+      "Fingerprint": "zg537wdlu1",
+      "Integrity": "jco0NhZezuXZ4MBgV0lNgfKzjvnR8+xeVwmoniM9eTA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\Carlos.jpg",
+      "Identity": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\Carlos.jpg",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
       "RelativePath": "Assets/Image/Carlos#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\Image\\Carlos.jpg"
     },
     {
-      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\CarlosAndEnrique.JPG",
+      "Identity": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\CarlosAndEnrique.JPG",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
       "RelativePath": "Assets/Image/CarlosAndEnrique#[.{fingerprint}]?.JPG",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\Image\\CarlosAndEnrique.JPG"
     },
     {
-      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\CarnegieHall2024.jpg",
+      "Identity": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\CarnegieHall2024.jpg",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
       "RelativePath": "Assets/Image/CarnegieHall2024#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\Image\\CarnegieHall2024.jpg"
     },
     {
-      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-16.png",
+      "Identity": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-16.png",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
       "RelativePath": "Assets/Image/favicons/icons8-mountain-16#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\Image\\favicons\\icons8-mountain-16.png"
     },
     {
-      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-32.png",
+      "Identity": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-32.png",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
       "RelativePath": "Assets/Image/favicons/icons8-mountain-ios-17-filled-32#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-32.png"
     },
     {
-      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-96.png",
+      "Identity": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-96.png",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
       "RelativePath": "Assets/Image/favicons/icons8-mountain-ios-17-filled-96#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-96.png"
     },
     {
-      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\Florence2019.jpg",
+      "Identity": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\Florence2019.jpg",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
       "RelativePath": "Assets/Image/Florence2019#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\Image\\Florence2019.jpg"
     },
     {
-      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\Grease.png",
+      "Identity": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\Grease.png",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
       "RelativePath": "Assets/Image/Grease#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\Image\\Grease.png"
     },
     {
-      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\HighSchoolFamily.JPG",
+      "Identity": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\HighSchoolFamily.JPG",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
       "RelativePath": "Assets/Image/HighSchoolFamily#[.{fingerprint}]?.JPG",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\Assets\\Image\\HighSchoolFamily.JPG"
     },
     {
-      "Identity": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\mountains-background.jpg",
+      "Identity": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\mountains-background.jpg",
       "SourceId": "PersonalWebsite",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\",
+      "ContentRoot": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\",
       "BasePath": "_content/PersonalWebsite",
       "RelativePath": "Assets/Image/mountains-background#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -356,12 +356,12 @@
   "Endpoints": [
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-ju963zylqb.gz",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-zg537wdlu1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000452284034"
+          "Quality": "0.000453514739"
         }
       ],
       "ResponseHeaders": [
@@ -371,15 +371,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2210"
+          "Value": "2204"
         },
         {
           "Name": "ETag",
-          "Value": "\"EQgZyOY86r1iB8itYDlPOVFxNJCwKsIQBgspq7M1QsA=\""
+          "Value": "\"s+691obSlIWYJg8kOcLEMJZsks5rCRmqIkqKjT1Eo10=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 22:40:41 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -399,19 +399,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"WybXGpCIYyVJP9J5lwspP1OmPvkaqMAcT3Bji/Kwb7w=\""
+          "Value": "W/\"jco0NhZezuXZ4MBgV0lNgfKzjvnR8+xeVwmoniM9eTA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WybXGpCIYyVJP9J5lwspP1OmPvkaqMAcT3Bji/Kwb7w="
+          "Value": "sha256-jco0NhZezuXZ4MBgV0lNgfKzjvnR8+xeVwmoniM9eTA="
         }
       ]
     },
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -420,7 +420,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4960"
+          "Value": "4931"
         },
         {
           "Name": "Content-Type",
@@ -428,11 +428,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WybXGpCIYyVJP9J5lwspP1OmPvkaqMAcT3Bji/Kwb7w=\""
+          "Value": "\"jco0NhZezuXZ4MBgV0lNgfKzjvnR8+xeVwmoniM9eTA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 22:40:41 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -442,13 +442,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WybXGpCIYyVJP9J5lwspP1OmPvkaqMAcT3Bji/Kwb7w="
+          "Value": "sha256-jco0NhZezuXZ4MBgV0lNgfKzjvnR8+xeVwmoniM9eTA="
         }
       ]
     },
     {
       "Route": "app.css.gz",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-ju963zylqb.gz",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-zg537wdlu1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -457,7 +457,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2210"
+          "Value": "2204"
         },
         {
           "Name": "Content-Type",
@@ -465,11 +465,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EQgZyOY86r1iB8itYDlPOVFxNJCwKsIQBgspq7M1QsA=\""
+          "Value": "\"s+691obSlIWYJg8kOcLEMJZsks5rCRmqIkqKjT1Eo10=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 22:40:41 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -487,18 +487,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EQgZyOY86r1iB8itYDlPOVFxNJCwKsIQBgspq7M1QsA="
+          "Value": "sha256-s+691obSlIWYJg8kOcLEMJZsks5rCRmqIkqKjT1Eo10="
         }
       ]
     },
     {
-      "Route": "app.ju963zylqb.css",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-ju963zylqb.gz",
+      "Route": "app.zg537wdlu1.css",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-zg537wdlu1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000452284034"
+          "Quality": "0.000453514739"
         }
       ],
       "ResponseHeaders": [
@@ -508,15 +508,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2210"
+          "Value": "2204"
         },
         {
           "Name": "ETag",
-          "Value": "\"EQgZyOY86r1iB8itYDlPOVFxNJCwKsIQBgspq7M1QsA=\""
+          "Value": "\"s+691obSlIWYJg8kOcLEMJZsks5rCRmqIkqKjT1Eo10=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 22:40:41 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -536,13 +536,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"WybXGpCIYyVJP9J5lwspP1OmPvkaqMAcT3Bji/Kwb7w=\""
+          "Value": "W/\"jco0NhZezuXZ4MBgV0lNgfKzjvnR8+xeVwmoniM9eTA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ju963zylqb"
+          "Value": "zg537wdlu1"
         },
         {
           "Name": "label",
@@ -550,13 +550,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-WybXGpCIYyVJP9J5lwspP1OmPvkaqMAcT3Bji/Kwb7w="
+          "Value": "sha256-jco0NhZezuXZ4MBgV0lNgfKzjvnR8+xeVwmoniM9eTA="
         }
       ]
     },
     {
-      "Route": "app.ju963zylqb.css",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\app.css",
+      "Route": "app.zg537wdlu1.css",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -565,7 +565,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4960"
+          "Value": "4931"
         },
         {
           "Name": "Content-Type",
@@ -573,11 +573,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WybXGpCIYyVJP9J5lwspP1OmPvkaqMAcT3Bji/Kwb7w=\""
+          "Value": "\"jco0NhZezuXZ4MBgV0lNgfKzjvnR8+xeVwmoniM9eTA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 22:40:41 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -587,7 +587,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ju963zylqb"
+          "Value": "zg537wdlu1"
         },
         {
           "Name": "label",
@@ -595,13 +595,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-WybXGpCIYyVJP9J5lwspP1OmPvkaqMAcT3Bji/Kwb7w="
+          "Value": "sha256-jco0NhZezuXZ4MBgV0lNgfKzjvnR8+xeVwmoniM9eTA="
         }
       ]
     },
     {
-      "Route": "app.ju963zylqb.css.gz",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-ju963zylqb.gz",
+      "Route": "app.zg537wdlu1.css.gz",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\pt14q1d4mr-zg537wdlu1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -610,7 +610,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2210"
+          "Value": "2204"
         },
         {
           "Name": "Content-Type",
@@ -618,11 +618,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EQgZyOY86r1iB8itYDlPOVFxNJCwKsIQBgspq7M1QsA=\""
+          "Value": "\"s+691obSlIWYJg8kOcLEMJZsks5rCRmqIkqKjT1Eo10=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 27 Mar 2025 22:40:41 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -640,7 +640,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ju963zylqb"
+          "Value": "zg537wdlu1"
         },
         {
           "Name": "label",
@@ -648,13 +648,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EQgZyOY86r1iB8itYDlPOVFxNJCwKsIQBgspq7M1QsA="
+          "Value": "sha256-s+691obSlIWYJg8kOcLEMJZsks5rCRmqIkqKjT1Eo10="
         }
       ]
     },
     {
       "Route": "Assets/Image/Carlos.02ejzk4h69.jpg",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\Carlos.jpg",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\Carlos.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -675,7 +675,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 14:30:12 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -699,7 +699,7 @@
     },
     {
       "Route": "Assets/Image/Carlos.jpg",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\Carlos.jpg",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\Carlos.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -720,7 +720,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 14:30:12 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -736,7 +736,7 @@
     },
     {
       "Route": "Assets/Image/CarlosAndEnrique.JPG",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\CarlosAndEnrique.JPG",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\CarlosAndEnrique.JPG",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -757,7 +757,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 22:40:51 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -773,7 +773,7 @@
     },
     {
       "Route": "Assets/Image/CarlosAndEnrique.skp7zugzb8.JPG",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\CarlosAndEnrique.JPG",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\CarlosAndEnrique.JPG",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -794,7 +794,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 22:40:51 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -818,7 +818,7 @@
     },
     {
       "Route": "Assets/Image/CarnegieHall2024.jpg",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\CarnegieHall2024.jpg",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\CarnegieHall2024.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -839,7 +839,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 15:02:04 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -855,7 +855,7 @@
     },
     {
       "Route": "Assets/Image/CarnegieHall2024.rj9ymz7bpn.jpg",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\CarnegieHall2024.jpg",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\CarnegieHall2024.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -876,7 +876,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 15:02:04 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -900,7 +900,7 @@
     },
     {
       "Route": "Assets/Image/favicons/icons8-mountain-16.onos2klna9.png",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-16.png",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-16.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -921,7 +921,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:20:42 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -945,7 +945,7 @@
     },
     {
       "Route": "Assets/Image/favicons/icons8-mountain-16.png",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-16.png",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-16.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -966,7 +966,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:20:42 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -982,7 +982,7 @@
     },
     {
       "Route": "Assets/Image/favicons/icons8-mountain-ios-17-filled-32.6b6ofe7xtx.png",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-32.png",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-32.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1003,7 +1003,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:24:26 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1027,7 +1027,7 @@
     },
     {
       "Route": "Assets/Image/favicons/icons8-mountain-ios-17-filled-32.png",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-32.png",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-32.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1048,7 +1048,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:24:26 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1064,7 +1064,7 @@
     },
     {
       "Route": "Assets/Image/favicons/icons8-mountain-ios-17-filled-96.h45lsbwm9i.png",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-96.png",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-96.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1085,7 +1085,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:24:26 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1109,7 +1109,7 @@
     },
     {
       "Route": "Assets/Image/favicons/icons8-mountain-ios-17-filled-96.png",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-96.png",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\favicons\\icons8-mountain-ios-17-filled-96.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1130,7 +1130,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 20:24:26 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1146,7 +1146,7 @@
     },
     {
       "Route": "Assets/Image/Florence2019.7tlzzm1nau.jpg",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\Florence2019.jpg",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\Florence2019.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1167,7 +1167,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 18:13:56 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1191,7 +1191,7 @@
     },
     {
       "Route": "Assets/Image/Florence2019.jpg",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\Florence2019.jpg",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\Florence2019.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1212,7 +1212,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 18:13:56 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1228,7 +1228,7 @@
     },
     {
       "Route": "Assets/Image/Grease.9ghbo6hptv.png",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\Grease.png",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\Grease.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1249,7 +1249,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 14:18:41 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1273,7 +1273,7 @@
     },
     {
       "Route": "Assets/Image/Grease.png",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\Grease.png",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\Grease.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1294,7 +1294,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 14:18:41 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1310,7 +1310,7 @@
     },
     {
       "Route": "Assets/Image/HighSchoolFamily.JPG",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\HighSchoolFamily.JPG",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\HighSchoolFamily.JPG",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1331,7 +1331,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 18:01:08 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1347,7 +1347,7 @@
     },
     {
       "Route": "Assets/Image/HighSchoolFamily.pz08mh5ipu.JPG",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\HighSchoolFamily.JPG",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\HighSchoolFamily.JPG",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1368,7 +1368,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 18:01:08 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1392,7 +1392,7 @@
     },
     {
       "Route": "Assets/Image/mountains-background.brffsbewg9.jpg",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\mountains-background.jpg",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\mountains-background.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1413,7 +1413,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 15:27:17 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1437,7 +1437,7 @@
     },
     {
       "Route": "Assets/Image/mountains-background.jpg",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\wwwroot\\Assets\\Image\\mountains-background.jpg",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\wwwroot\\Assets\\Image\\mountains-background.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1458,7 +1458,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Mar 2025 15:27:17 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1474,7 +1474,7 @@
     },
     {
       "Route": "PersonalWebsite.bundle.scp.css",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\f16kans05l-fg6f3k7yrg.gz",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\f16kans05l-fg6f3k7yrg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1497,7 +1497,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1529,7 +1529,7 @@
     },
     {
       "Route": "PersonalWebsite.bundle.scp.css",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1550,7 +1550,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1566,7 +1566,7 @@
     },
     {
       "Route": "PersonalWebsite.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\f16kans05l-fg6f3k7yrg.gz",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\f16kans05l-fg6f3k7yrg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1587,7 +1587,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1611,7 +1611,7 @@
     },
     {
       "Route": "PersonalWebsite.fg6f3k7yrg.bundle.scp.css",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\f16kans05l-fg6f3k7yrg.gz",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\f16kans05l-fg6f3k7yrg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1634,7 +1634,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1674,7 +1674,7 @@
     },
     {
       "Route": "PersonalWebsite.fg6f3k7yrg.bundle.scp.css",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\PersonalWebsite.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1695,7 +1695,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1719,7 +1719,7 @@
     },
     {
       "Route": "PersonalWebsite.fg6f3k7yrg.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\f16kans05l-fg6f3k7yrg.gz",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\f16kans05l-fg6f3k7yrg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1740,7 +1740,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1772,7 +1772,7 @@
     },
     {
       "Route": "PersonalWebsite.fg6f3k7yrg.styles.css",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\xhy77gdwtw-fg6f3k7yrg.gz",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\xhy77gdwtw-fg6f3k7yrg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1795,7 +1795,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1835,7 +1835,7 @@
     },
     {
       "Route": "PersonalWebsite.fg6f3k7yrg.styles.css",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PersonalWebsite.styles.css",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PersonalWebsite.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1856,7 +1856,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1880,7 +1880,7 @@
     },
     {
       "Route": "PersonalWebsite.fg6f3k7yrg.styles.css.gz",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\xhy77gdwtw-fg6f3k7yrg.gz",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\xhy77gdwtw-fg6f3k7yrg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1901,7 +1901,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1933,7 +1933,7 @@
     },
     {
       "Route": "PersonalWebsite.styles.css",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\xhy77gdwtw-fg6f3k7yrg.gz",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\xhy77gdwtw-fg6f3k7yrg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1956,7 +1956,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1988,7 +1988,7 @@
     },
     {
       "Route": "PersonalWebsite.styles.css",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PersonalWebsite.styles.css",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\scopedcss\\bundle\\PersonalWebsite.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2009,7 +2009,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2025,7 +2025,7 @@
     },
     {
       "Route": "PersonalWebsite.styles.css.gz",
-      "AssetFile": "C:\\Users\\carlos.vazquezbaur\\OneDrive - State of New Mexico\\Desktop\\PersonalWebsite\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\xhy77gdwtw-fg6f3k7yrg.gz",
+      "AssetFile": "D:\\BlazorWebsite\\PersonalWebsiteBlazor\\PersonalWebsite\\obj\\Debug\\net9.0\\compressed\\xhy77gdwtw-fg6f3k7yrg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2046,7 +2046,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Mar 2025 15:25:46 GMT"
+          "Value": "Sun, 30 Mar 2025 21:57:16 GMT"
         },
         {
           "Name": "Cache-Control",
