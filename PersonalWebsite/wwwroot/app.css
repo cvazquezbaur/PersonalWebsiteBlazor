@@ -52,10 +52,7 @@ h1:focus {
 .btn-primary {
     background-color: #4D94A3 !important;
     border-color: aliceblue !important;
-}
-
-.btn-primary:hover {
-    background-color: #FFEE8C;
+    transition: background-color 0.3s ease;
 }
 
 .cover-container {
@@ -93,7 +90,7 @@ h1:focus {
     padding: 15px 30px;
     background-color: #4D94A3;
     color: #282c34;
-    border: none;
+    border: whitesmoke;
     border-radius: 5px;
     font-size: 1.2em;
     cursor: pointer;
@@ -101,7 +98,15 @@ h1:focus {
 }
 
 .enter-button:hover {
-    background-color: #63B6C5; /* Slightly lighter on hover */
+    background-color: whitesmoke;
+    border: #4D94A3;
+}
+
+.btn-primary:hover {
+    background-color: #6CACB8 !important;
+    color: whitesmoke !important;
+    border: whitesmoke !important;
+    border-radius: 5px;
 }
 
 .fade-in {

@@ -4,12 +4,7 @@
 
 <PageTitle>Carlos Andres Vázquez Baur</PageTitle>
 
-  <div class="cover-page" id="cover">
-    <h1 class="cover-title text- fade-in">Welcome to My Website</h1>
-    <p class="cover-subtitle fade-in">Explore my services and passions on this website</p>
-    <button class="enter-button fade-in" @onclick="ShowContent">Enter</button>
-</div>
-  <div id="content-container" style="display: none;">
+  <div id="content-container fade-in">
     <div class="container">
     <div class="jumbotron text-center">
       <h1 class="display-3">A Triple Threat in Unexpected Ways</h1>
@@ -48,10 +43,10 @@
         <div class="text-center"><a class="btn btn-primary center" href="/software-engineering">Software</a></div>
       </div>
       <div class="col">
-        <div class="text-center"><a class="btn btn-primary center" href="/software-engineering">Singing</a></div>
+        <div class="text-center"><a class="btn btn-primary center" href="/singing">Singing</a></div>
       </div>
       <div class="col">
-        <div class="text-center"><a class="btn btn-primary center" href="/software-engineering">Skiing</a></div>
+        <div class="text-center"><a class="btn btn-primary center" href="/skiing">Skiing</a></div>
       </div>
     </div>
     </div>
@@ -62,6 +57,8 @@
     </div>
   </div>
   </div>
+
+  <div class="accordion"></div>
 
 @code {
   private async Task ShowContent()
